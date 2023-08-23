@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Privacy Policy"
+        android:icon="@color/black"
+        android:id="@+id/privacy"
+        app:showAsAction="never"
+
+
+        />
+    <item
+        android:title="@string/terms_and_conditions"
+        android:icon="@color/black"
+        android:id="@+id/id_term"
+        app:showAsAction="never"
+        />
+    <item
+
+        android:title="@string/rate_us"
+        android:icon="@color/black"
+        android:id="@+id/rate"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:title="@string/more_apps"
+        android:icon="@color/black"
+        android:id="@+id/more"
+        app:showAsAction="never"
+
+        />
+
+    <item
+        android:title="@string/share"
+        android:icon="@color/black"
+        android:id="@+id/share"
+        app:showAsAction="never"
+        />
+
+
+
+</menu>
